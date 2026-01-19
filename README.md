@@ -116,6 +116,7 @@ project-root/
 - [The Real Ralph Wiggum Loop](https://thetrav.substack.com/p/the-real-ralph-wiggum-loop-what-everyone) - Clarifies original bash loop vs Anthropic plugin philosophy.
 - [Ralph Wiggum Guide](https://github.com/JeredBlu/guides/blob/main/Ralph_Wiggum_Guide.md) - Community-written comprehensive guide.
 - [Awesome Claude - Ralph Wiggum](https://awesomeclaude.ai/ralph-wiggum) - Resource page with additional tips and configuration examples.
+- [How to Build an Effective Long Running Agent Loop in 7 minutes.](https://x.com/dabit3/status/2013091003104727338?s=20) - Walks you through the entire process from creating a spec, building and polishing a PRD, to running the agent with frameworks like Claude Code, Codex, and OpenCode.
 
 ## Articles & Blog Posts
 
