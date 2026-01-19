@@ -1,6 +1,8 @@
 
 <p align="center">
+  <a href="https://www.reddit.com/r/RalphCoding/">
 <img src="https://github.com/user-attachments/assets/692be4b4-8bd9-4002-af29-9e65c5e6b61c" width="1000" alt="Ralph Wiggum AI Coding method">
+  </a>
 </p>
 
 
