@@ -88,6 +88,7 @@ project-root/
 ### Claude Code Plugins
 
 - [ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Claude Code with intelligent exit detection, rate limiting, circuit breaker, and semantic response analyzer.
+- [choo-choo-ralph](https://github.com/mj-meyer/choo-choo-ralph) - Beads-powered 5-phase workflow with structured specs, verified implementations, and compounding knowledge—per-project installation with fully customizable workflows.
 
 ### Standalone Implementations
 
