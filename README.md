@@ -99,6 +99,7 @@ project-root/
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Rust orchestrator with 7 AI backends, Hat System for specialized personas, and interactive TUI mode.
 - [nitodeco/ralph](https://github.com/nitodeco/ralph) - CLI orchestration tool for PRD-driven development with sequential task execution and interactive terminal UI.
 - [oh-my-ralph](https://github.com/vivganes/oh-my-ralph) - Opinionated Ralph Wiggum loop implemented in Python, available in [PyPI](https://pypi.org/search/?q=oh-my-ralph).
+- [ralph-starter](https://github.com/rubenmarcus/ralph-starter) - CLI with integrations for GitHub, Linear, and Notion; supports multiple agents, interactive wizard, workflow presets, and cost tracking.
 
 ### Tool-Specific Implementations
 
